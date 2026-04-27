@@ -4,6 +4,18 @@ layout: default
 ---
 # COMP110 Data Analysis: Pre-Lecture Videos
 
+## Brainstormed Ideas
+
+Before choosing my final analysis, I considered several ways to improve the COMP110 learning experience:
+
+- Incorporating real-world coding projects to make course material feel more meaningful and relevant
+- Providing weekly review summaries to help students reinforce key concepts and stay on track
+- Adjusting lecture pacing for students who feel the course moves too quickly
+- Expanding access to recorded or livestreamed lectures for flexible learning
+- Implementing optional pre-lecture videos to better prepare students before class
+
+I ultimately chose to analyze pre-lecture videos because they provide a flexible and scalable way to support a wide range of students, especially those who may struggle with confidence or course difficulty.
+
 ## Research Question
 In this analysis, I explored whether adding optional pre-lecture videos would benefit students in COMP110. Specifically, I wanted to understand if students who feel less confident or find the course more difficult are more likely to support additional resources like pre-lecture videos.
 
@@ -43,4 +55,4 @@ Overall, the data suggests strong support for adding pre-lecture videos to COMP1
 
 Based on this analysis, I recommend implementing optional pre-lecture videos as a way to improve student learning and provide additional support for those who need it most.
 
-One limitation of this analysis is that the data is self-reported and does not directly measure actual performance improvements. In the future, it would be useful to compare exam scores before and after implementing pre-lecture videos to better evaluate their effectiveness.
+One limitation of this analysis is that the data is self-reported and does not directly measure actual performance improvements. In the future, it would be useful to compare exam scores before and after implementing pre-lecture videos to better evaluate their effectiveness. In the future, this could be improved by collecting actual performance data, such as comparing exam scores before and after implementing pre-lecture videos.
