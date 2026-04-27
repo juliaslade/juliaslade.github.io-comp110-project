@@ -20,21 +20,21 @@ These variables were selected because they help identify whether students who ar
 ## Visualization 1: Interest in Pre-Lecture Videos
 This chart shows how students rated the helpfulness of pre-lecture videos.
 
-![Pre-Lecture Ratings](images/prelecture.png)
+![Pre-Lecture Ratings](data/images/prelecture.png)
 
 The distribution is heavily skewed toward higher values, indicating that most students believe pre-lecture videos would be helpful. This suggests strong overall interest in adding this resource.
 
 ## Visualization 2: Understanding vs Pre-Lecture Videos
 This scatterplot compares students’ understanding with their support for pre-lecture videos.
 
-![Understanding vs Videos](images/understanding.png)
+![Understanding vs Videos](data/images/understanding.png)
 
 While there is some variation, students with lower understanding levels still show relatively high support for pre-lecture videos. This suggests that even students who struggle are actively seeking additional learning support.
 
 ## Visualization 3: Difficulty vs Pre-Lecture Videos
 This chart compares how difficult students find the course with their support for pre-lecture videos.
 
-![Difficulty vs Videos](images/difficulty.png)
+![Difficulty vs Videos](data/images/difficulty.png)
 
 Students who report higher difficulty tend to also support pre-lecture videos, reinforcing the idea that additional resources could help those who find the course challenging.
 
